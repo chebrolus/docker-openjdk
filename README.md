@@ -1,4 +1,6 @@
 # docker-openjdk
+[![](https://images.microbadger.com/badges/image/schebrolu/docker-openjdk.svg)](https://microbadger.com/images/schebrolu/docker-openjdk "Get your own image badge on microbadger.com")
+
 Docker image for OpenJDK 
 Using alpine image
 
